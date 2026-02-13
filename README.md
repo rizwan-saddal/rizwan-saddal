@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @rizwan-saddal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-rizwan-saddal/rizwan-saddal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/109819644/rizwan-saddal/rizwan-saddal/recent-activity/g0drQlbXrr0-Of7rtZpQfVNDXBpPXe7pRx-AvvkGJvI/MJA2-gCeJC0zpIIAmAUZZMUD27W8DMdHHcaXNmwskF0_badge.svg)](https://repography.com)
+[![Timeline graph](https://images.repography.com/109819644/rizwan-saddal/rizwan-saddal/recent-activity/g0drQlbXrr0-Of7rtZpQfVNDXBpPXe7pRx-AvvkGJvI/MJA2-gCeJC0zpIIAmAUZZMUD27W8DMdHHcaXNmwskF0_timeline.svg)](https://github.com/rizwan-saddal/rizwan-saddal/commits)
+[![Issue status graph](https://images.repography.com/109819644/rizwan-saddal/rizwan-saddal/recent-activity/g0drQlbXrr0-Of7rtZpQfVNDXBpPXe7pRx-AvvkGJvI/MJA2-gCeJC0zpIIAmAUZZMUD27W8DMdHHcaXNmwskF0_issues.svg)](https://github.com/rizwan-saddal/rizwan-saddal/issues)
+[![Pull request status graph](https://images.repography.com/109819644/rizwan-saddal/rizwan-saddal/recent-activity/g0drQlbXrr0-Of7rtZpQfVNDXBpPXe7pRx-AvvkGJvI/MJA2-gCeJC0zpIIAmAUZZMUD27W8DMdHHcaXNmwskF0_prs.svg)](https://github.com/rizwan-saddal/rizwan-saddal/pulls)
+[![Trending topics](https://images.repography.com/109819644/rizwan-saddal/rizwan-saddal/recent-activity/g0drQlbXrr0-Of7rtZpQfVNDXBpPXe7pRx-AvvkGJvI/MJA2-gCeJC0zpIIAmAUZZMUD27W8DMdHHcaXNmwskF0_words.svg)](https://github.com/rizwan-saddal/rizwan-saddal/commits)
+[![Top contributors](https://images.repography.com/109819644/rizwan-saddal/rizwan-saddal/recent-activity/g0drQlbXrr0-Of7rtZpQfVNDXBpPXe7pRx-AvvkGJvI/MJA2-gCeJC0zpIIAmAUZZMUD27W8DMdHHcaXNmwskF0_users.svg)](https://github.com/rizwan-saddal/rizwan-saddal/graphs/contributors)
+[![Activity map](https://images.repography.com/109819644/rizwan-saddal/rizwan-saddal/recent-activity/g0drQlbXrr0-Of7rtZpQfVNDXBpPXe7pRx-AvvkGJvI/MJA2-gCeJC0zpIIAmAUZZMUD27W8DMdHHcaXNmwskF0_map.svg)](https://github.com/rizwan-saddal/rizwan-saddal/commits)
+
