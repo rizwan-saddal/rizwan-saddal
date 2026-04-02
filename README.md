@@ -1,4 +1,4 @@
-<h1 align="center">Muhammad Rizwan Shakeel Anwer</h1>
+<h1 align="center">Muhammad Rizwan Suddle</h1>
 
 <p align="center">
   Open source contributor building MCP tools, agentic workflows, and AI-assisted developer experiences.
