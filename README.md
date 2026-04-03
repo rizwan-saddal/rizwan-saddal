@@ -14,7 +14,16 @@
   <a href="https://github.com/rizwan-saddal"><img src="https://komarev.com/ghpvc/?username=rizwan-saddal&style=for-the-badge&color=blueviolet" /></a>
   <img src="https://img.shields.io/badge/Open%20to%20Work-Remote%20Opportunities-22c55e?style=for-the-badge" />
 </p>
+## GitHub snapshot
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rizwan-saddal&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwan-saddal&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rizwan-saddal&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 ---
 
 ## What I work on
@@ -55,16 +64,7 @@
   <img src="https://img.shields.io/badge/MCP-Agentic%20Tooling-111827?style=for-the-badge" />
 </p>
 
-## GitHub snapshot
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rizwan-saddal&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwan-saddal&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rizwan-saddal&theme=tokyo-night&hide_border=true&area=true" />
-</p>
 
 ## Connect
 
