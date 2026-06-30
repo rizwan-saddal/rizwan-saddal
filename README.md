@@ -37,7 +37,7 @@
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| AGENTerprise OS](https://muftahfree.github.io/AGENTerprise-OS/) | The Agent Ochestration operating system the world's AI builders run on. | Python, React, TypeScipt, C#, postgresql, .NET MAIU |
+| [AGENTerprise OS](https://muftahfree.github.io/AGENTerprise-OS/) | The Agent Ochestration operating system the world's AI builders run on. | Python, React, TypeScipt, C#, postgresql, .NET MAIU |
 | [MCP Gateway / MCP Manager](https://github.com/rizwan-saddal/mcp-manager) | A lazy-loading router for MCP tools that orchestrates Model Context Protocol servers for VS Code and Antigravity, with background sync and one-click tool setup. | Python, TypeScript |
 | [Agent Swamps](https://github.com/rizwan-saddal/AG-New-Ptototyping-Agent-Swamps) | An architecture-first prototype for a zero-touch multi-agent software house, with React UI, .NET/Semantic Kernel backend plans, workflow docs, and Ollama integration. | TypeScript, .NET, AI Agents |
 | [GitHub Copilot Learning Repo](https://github.com/rizwan-saddal/skills-getting-started-with-github-copilot-by-rizwan) | Hands-on exercises and experiments for learning GitHub Copilot and AI-assisted development workflows. | Python, GitHub |
